@@ -22,6 +22,9 @@
 * footprint is significantly smaller and over
 * 100 Fibonacci numbers can still be printed
 * without overflowing.
+*
+* This code can also be found at
+* https://github.com/BassFaceIV/JobApplicationsEvaluations
 ********************************************/
 
 void getNextFibonacciNumber(long unsigned *, long unsigned *);
